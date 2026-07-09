@@ -14,3 +14,11 @@ Recommended Vercel settings:
 - Root Directory: the folder containing `index.html`
 
 The site uses static HTML, CSS, JavaScript, and image assets only.
+
+## Vercel Web Analytics
+
+The Vercel Analytics script has been added to every page. After deploying, turn on analytics in the Vercel dashboard:
+
+Project > Analytics > Enable
+
+Vercel Web Analytics is privacy-friendly and does not require a separate third-party analytics account.
